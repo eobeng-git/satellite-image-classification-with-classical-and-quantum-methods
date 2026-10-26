@@ -1,0 +1,8 @@
+data/
+*.npz
+*.pkl
+*.out
+*.err
+__pycache__/
+.ipynb_checkpoints/
+thesis_figures_v2/
